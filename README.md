@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/rikray1208/rikray1208/main/assets/header1.png"  />
+  <img height="150" src="https://raw.githubusercontent.com/rikray1208/rikray1208/main/assets/header2.png"  />
 </div>
 
 ###
@@ -53,8 +53,8 @@
         <br>GitHub
     </td>
     <td align="center" width="110" height="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />>
-        <br>GitHub
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+        <br>NPM
     </td>
     </tr>
 </table>
