@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Frontend developer from Ukraine, currently living in Warsaw, Poland.<br><br>- 🔭 At the moment I’m looking for a job.<br>- 💬  I like to talk about JS<br>- 💻  Connect with me on LinkedIn</p>
+<p align="left">Frontend developer from Ukraine, currently living in Warsaw, Poland.<br><br>- 🔭 Currently working at [Чёрный Одуванчик](https://t.me/blacktaraxacum).<br>- 💬  I like to talk about JS.<br>- 💻  Connect with me on LinkedIn</p>
 
 ###
 
