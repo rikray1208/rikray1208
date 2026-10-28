@@ -65,8 +65,6 @@
     </tr>
 </table>
 
-<sub>+ REST APIs · WebSockets · SSE</sub>
-
 ###
 
 > Frontend
@@ -207,8 +205,6 @@
     </tr>
 </table>
 
-<sub>+ Supertest</sub>
-
 ###
 
 > AI
@@ -237,8 +233,6 @@
     </td>
     </tr>
 </table>
-
-<sub>+ Local LLM Inference</sub>
 
 ###
 
